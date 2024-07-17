@@ -17,4 +17,4 @@ This project had a transcript of an interview that I interpreted into these diag
 
 How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
 
-I used to take a "play ny ear" approach to programming, with a general idea and a rough list of requirements, now that I have learned about these diagraming techniques and design techniques  I will implement them into future planning for programming.
+I used to take a "play by ear" approach to programming, with a general idea and a rough list of requirements, now that I have learned about these diagraming techniques and design techniques  I will implement them into future planning for programming.
